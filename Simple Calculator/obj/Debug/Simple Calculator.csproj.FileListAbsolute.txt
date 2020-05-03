@@ -1,0 +1,10 @@
+C:\C# 2015\Simple Calculator\obj\Debug\Simple Calculator.csprojAssemblyReference.cache
+C:\C# 2015\Simple Calculator\obj\Debug\Simple_Calculator.Frm1.resources
+C:\C# 2015\Simple Calculator\obj\Debug\Simple_Calculator.Properties.Resources.resources
+C:\C# 2015\Simple Calculator\obj\Debug\Simple Calculator.csproj.GenerateResource.cache
+C:\C# 2015\Simple Calculator\obj\Debug\Simple Calculator.csproj.CoreCompileInputs.cache
+C:\C# 2015\Simple Calculator\bin\Debug\Simple Calculator.exe.config
+C:\C# 2015\Simple Calculator\bin\Debug\Simple Calculator.exe
+C:\C# 2015\Simple Calculator\bin\Debug\Simple Calculator.pdb
+C:\C# 2015\Simple Calculator\obj\Debug\Simple Calculator.exe
+C:\C# 2015\Simple Calculator\obj\Debug\Simple Calculator.pdb
